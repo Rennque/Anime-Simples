@@ -1,5 +1,5 @@
 # Anime-Simples
 
-Apenas uma criação para exercitar o conhecimento adquirido!!
+Apenas alguns testes para colocar o conhecimento e curiosidades em pratica!!
 
 Cada etapa do java script comentada para melhor entendimento !!
